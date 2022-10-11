@@ -1,0 +1,18 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwibmFtZSI6IkZ1bGFuYSBQZXJlaXJhIiwiZW1haWwiOiJmdWxhbmFAZGVsaXZlcnlhcHAuY29tIiwicm9sZSI6InNlbGxlciIsImlhdCI6MTY2NDExNjgwOSwiZXhwIjoxNjY0NzIxNjA5fQ.CmjNXiYqDyW-73dbSMk3sFX6LC4alPCcLCGay0WuoN4",
+	"sellerName": "Beltrana Vendedora",
+	"deliveryAddress": "Teste cas 2",
+	"deliveryNumber": "77",
+	"totalPrice": "120.80",
+	"items":
+		[
+			{
+				"productId": 1,
+				"quantity": 12
+			},
+			{
+				"productId": 3,
+				"quantity": 2
+			}
+		]
+}
